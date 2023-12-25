@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Research
 permalink: /research/
 description: Katherine Moos, Assistant Professor in Economics at the University of Massachusetts Amherst
 keywords: katherine moos
