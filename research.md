@@ -8,9 +8,11 @@ keywords: katherine moos
 
 ### Research Interests
 
-My research contributes to social reproduction theory which analyzes the processes and institutions in which labor power—the potential and capacity to work—is reproduced daily and generationally. My current research program focuses on the relationship between labor’s social reproduction and the welfare state.  My approach integrates paid and unpaid work to analyze the material foundations and gendered implications of political-economic transformations on social reproduction processes. For example, neoliberal policies which transform welfare programs and weaken employees’ bargaining power relative to employers may have contradictory effects on the distribution of responsibility for social reproduction. My research explores these questions through a variety of political economy methods: historical case studies, institutional analysis, as well both quantitative and qualitative methods.
+My research contributes to social reproduction theory which analyzes the processes and institutions in which labor power—the potential and capacity to work—is reproduced daily and generationally.
 
-The broad questions that frame my research agenda are: How is the responsibility for social reproduction distributed among economic institutions such as households, firms, and states—and between people of different genders? What contradictions have emerged in the neoliberal era with respect to social reproduction and economic policy? When and how does the state intervene to address real or perceived threats to social reproduction? How are threats to social reproduction—including those resulting from conflicts over the length of the working day—articulated, mitigated, and/or exacerbated through social struggle and economic policymaking? 
+The broad questions that frame my research agenda are: How is the responsibility for social reproduction distributed among economic institutions such as households, firms, and states—and between people of different genders? What contradictions have emerged in the neoliberal era with respect to social reproduction and economic policy? When and how does the state intervene to address real or perceived threats to social reproduction? How are threats to social reproduction—including those resulting from conflicts over the length of the working day—articulated, mitigated, and/or exacerbated through social struggle and economic policymaking?
+
+My research explores these questions through a variety of political economy methods: historical case studies, institutional analysis, as well both quantitative and qualitative methods.
 
 ### Refereed Publications
 
