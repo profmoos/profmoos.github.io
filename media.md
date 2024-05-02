@@ -8,6 +8,10 @@ keywords: katherine moos
 
 Published November 27, 2023: "Mother Culture" hosts Miranda Rake and Sarah Wheeler discuss with me, "Are We Watering Down Feminism?". [Listen here](https://podcasters.spotify.com/pod/show/mother-culture-pod/episodes/Episode-5-Are-We-Watering-Down-Feminism-e2c9r9l).
 
+Published August 30, 2021: Interview with the Association for Social Economics about [my 2021 paper](https://www.tandfonline.com/doi/full/10.1080/00346764.2019.1703031), "The historical evolution of the cost of social reproduction in the United States, 1959–2012" published in the Review of Social Economy.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1eZQ9l5gXSM?si=Zc3HzofvSxR3srRv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Published May 18, 2020: I was on the Real News Network’s "Stir Crazy" show with incoming TRNN Executive Director John Duda and Economic Update host and founder of Democracy at Work Richard Wolff. Hosted by Kim Brown.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMLhprapOEA?si=KwUZuIAx1g_rb-9r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
