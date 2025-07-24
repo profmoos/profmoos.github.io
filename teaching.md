@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: Katherine Moos, Assistant Professor in Economics at the University of Massachusetts Amherst
+description: Katherine Moos, Associate Professor in Economics at the University of Massachusetts Amherst
 keywords: katherine moos
 ---
 
