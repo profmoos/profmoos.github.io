@@ -6,7 +6,7 @@ description: Katherine Moos, Associate Professor in Economics at the University 
 keywords: katherine moos
 ---
 
-Published July 10, 2025: "Behind the News" host Doug Henwood interviews me about my research with Noé M. Wiener about overwork among teachers. [Listen here](https://kpfa.org/episode/behind-the-news-july-10-2025/)
+Published July 10, 2025: "Behind the News" host Doug Henwood interviews me about my research (with Noé M. Wiener) on overwork among teachers. [Listen here](https://kpfa.org/episode/behind-the-news-july-10-2025/)
 
 Published November 27, 2023: "Mother Culture" hosts Miranda Rake and Sarah Wheeler discuss with me, "Are We Watering Down Feminism?". [Listen here](https://podcasters.spotify.com/pod/show/mother-culture-pod/episodes/Episode-5-Are-We-Watering-Down-Feminism-e2c9r9l).
 
