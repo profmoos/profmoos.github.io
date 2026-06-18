@@ -8,22 +8,22 @@ keywords: katherine moos
 
 ### Research Interests
 
-As a feminist political economist, my academic research analyzes the processes and institutions in which labor power—the human capacity to work—is reproduced daily and generationally. 
+My research is in  feminist political economy and the welfare state. My academic research analyzes the processes and institutions in which labor power—the human capacity to work—is reproduced daily and generationally. 
 
-The broad questions that frame my research agenda are: How is the responsibility for social reproduction distributed among economic institutions such as households, firms, and states—and between people of different genders? What contradictions have emerged in the neoliberal era with respect to social reproduction and economic policy? When and how does the state intervene to address real or perceived threats to social reproduction? How are threats to social reproduction—including those resulting from conflicts over the length of the working day—articulated, mitigated, and/or exacerbated through social struggle and economic policymaking?
+The broad questions that frame my research agenda are: How is the responsibility for social reproduction distributed among economic institutions such as households, firms, and states—and between people of different genders and socio-economic groups? What contradictions have emerged in the neoliberal era with respect to social reproduction and economic policy? When and how does the state intervene to address real or perceived threats to social reproduction? How are threats to social reproduction—including those resulting from conflicts over the length of the working day—articulated, mitigated, and/or exacerbated through social struggle and economic policymaking?
 
 My research explores these questions through a variety of political economy methods: historical case studies, institutional analysis, as well both quantitative and qualitative methods.
 
 ### Current Book Project
 
-I am currently working on my first book, *The End of Feminism: How the Economy Derailed Women's Liberation* (under contract with the University of Chicago Press. This book is a sweeping examination of the contradictions and confusions of contemporary mainstream feminism. Written as a book in feminist political economy for a general audience, The End of Feminism argues that the demands and doctrine of the market economy weakened U.S. feminism as a social movement and fueled the anti-feminist backlash. 
+I am currently working on my first book, *The End of Feminism: How the Economy Derailed Women's Liberation*, under contract with the University of Chicago Press. This book is a sweeping examination of the contradictions and confusions of contemporary mainstream feminism. Written as a book in feminist political economy for a general audience, *The End of Feminism* argues that the demands and doctrine of the market economy weakened U.S. feminism as a social movement and fueled the anti-feminist backlash. 
 
 ### Refereed Publications
 
 
 - [“Investigating Overwork, Work-Life Conflicts and Work-Time Reduction for Massachusetts Teachers.”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E314008A1BB8445D946B434E73E43E06/S103530462500016Xa.pdf/us_teachers_overwork_and_perceptions_of_worktime_reductions_evidence_from_massachusetts.pdf) co-authored with Noé M. Wiener. *The Economics and Labour Relations Review,* 2025, 36(2): 480 – 505.
   
-- [“A Comparison of the Socioeconomic and Gendered Organization of Social Reproduction in the United States and United Kingdom, 1973-2013.”](https://academic.oup.com/sp/article-abstract/31/3/502/7706277) co-authored with Pilar Gonalons-Pons. *Social Politics: International Studies in Gender, State & Society,* 2024, 31(3): 502-530. (Editor’s Choice)
+- [“A Comparison of the Socioeconomic and Gendered Organization of Social Reproduction in the United States and United Kingdom, 1973-2013.”](https://academic.oup.com/sp/article-abstract/31/3/502/7706277) co-authored with Pilar Gonalons-Pons. *Social Politics: International Studies in Gender, State & Society,* 2024, 31(3): 502-530. **Editor’s Choice**
   
 - “[The Distribution of the Cost of Cuban Social Reproduction in 2016: the Relative Contributions of Domestic and Diasporic Households, the Private Sector, and the State.”](https://www.tandfonline.com/doi/abs/10.1080/13563467.2024.2356535) co-authored with Anamary Maqueira Linares. (2024) *New Political Economy* 2024, 29(5), 819–833. 
 
