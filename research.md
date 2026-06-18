@@ -8,11 +8,15 @@ keywords: katherine moos
 
 ### Research Interests
 
-My research contributes to social reproduction theory which analyzes the processes and institutions in which labor power—the potential and capacity to work—is reproduced daily and generationally.
+As a feminist political economist, my academic research analyzes the processes and institutions in which labor power—the human capacity to work—is reproduced daily and generationally. 
 
 The broad questions that frame my research agenda are: How is the responsibility for social reproduction distributed among economic institutions such as households, firms, and states—and between people of different genders? What contradictions have emerged in the neoliberal era with respect to social reproduction and economic policy? When and how does the state intervene to address real or perceived threats to social reproduction? How are threats to social reproduction—including those resulting from conflicts over the length of the working day—articulated, mitigated, and/or exacerbated through social struggle and economic policymaking?
 
 My research explores these questions through a variety of political economy methods: historical case studies, institutional analysis, as well both quantitative and qualitative methods.
+
+### Current Book Project
+
+I am currently working on my first book, *The End of Feminism: How the Economy Derailed Women's Liberation* (under contract with the University of Chicago Press. This book is a sweeping examination of the contradictions and confusions of contemporary mainstream feminism. Written as a book in feminist political economy for a general audience, The End of Feminism argues that the demands and doctrine of the market economy weakened U.S. feminism as a social movement and fueled the anti-feminist backlash. 
 
 ### Refereed Publications
 
