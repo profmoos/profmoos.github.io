@@ -16,9 +16,12 @@ My research explores these questions through a variety of political economy meth
 
 ### Refereed Publications
 
-- "A Comparison of the Socioeconomic and Gendered Organization of Social Reproduction in the United States and United Kingdom, 1973-2013," co-authored with Pilar Gonalons-Pons. Forthcoming: Social Politics.
 
-- "The Distribution of the Cost of Cuban Social Reproduction in 2016: the Relative Contributions of Domestic and Diasporic Households, the Private Sector, and the State," co-authored with Anamary Maqueira Linares. Forthcoming: *New Political Economy*.
+- [“Investigating Overwork, Work-Life Conflicts and Work-Time Reduction for Massachusetts Teachers.”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E314008A1BB8445D946B434E73E43E06/S103530462500016Xa.pdf/us_teachers_overwork_and_perceptions_of_worktime_reductions_evidence_from_massachusetts.pdf) co-authored with Noé M. Wiener. *The Economics and Labour Relations Review,* 2025, 36(2): 480 – 505.
+  
+- [“A Comparison of the Socioeconomic and Gendered Organization of Social Reproduction in the United States and United Kingdom, 1973-2013.”](https://academic.oup.com/sp/article-abstract/31/3/502/7706277) co-authored with Pilar Gonalons-Pons. *Social Politics: International Studies in Gender, State & Society,* 2024, 31(3): 502-530. (Editor’s Choice)
+  
+- “[The Distribution of the Cost of Cuban Social Reproduction in 2016: the Relative Contributions of Domestic and Diasporic Households, the Private Sector, and the State.”](https://www.tandfonline.com/doi/abs/10.1080/13563467.2024.2356535) co-authored with Anamary Maqueira Linares. (2024) *New Political Economy* 2024, 29(5), 819–833. 
 
 - ["The State’s Response to the Crisis of Neoliberalism: A Comparison of the Net Social Wage in China and the United States, 1992-2017,"](https://www.tandfonline.com/doi/full/10.1080/02692171.2022.2056155) co-authored with Hao Qi. *International Review of Applied Economics*, 2023, 37(1): 23-49.
 
